@@ -1,0 +1,9 @@
+D:\VisualStudioApp\Pertseptron\Pertseptron\bin\Debug\Pertseptron.exe.config
+D:\VisualStudioApp\Pertseptron\Pertseptron\bin\Debug\Pertseptron.exe
+D:\VisualStudioApp\Pertseptron\Pertseptron\bin\Debug\Pertseptron.pdb
+D:\VisualStudioApp\Pertseptron\Pertseptron\obj\Debug\Pertseptron.csprojResolveAssemblyReference.cache
+D:\VisualStudioApp\Pertseptron\Pertseptron\obj\Debug\Pertseptron.Form1.resources
+D:\VisualStudioApp\Pertseptron\Pertseptron\obj\Debug\Pertseptron.Properties.Resources.resources
+D:\VisualStudioApp\Pertseptron\Pertseptron\obj\Debug\Pertseptron.csproj.GenerateResource.Cache
+D:\VisualStudioApp\Pertseptron\Pertseptron\obj\Debug\Pertseptron.exe
+D:\VisualStudioApp\Pertseptron\Pertseptron\obj\Debug\Pertseptron.pdb
